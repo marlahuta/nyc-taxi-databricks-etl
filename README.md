@@ -1,4 +1,4 @@
-# NYC Yellow Taxi ETL Pipeline (Databricks + Delta Lake)
+# NYC Yellow Taxi ETL Pipeline (Databricks)
 
 This project involves the implementation of a complete ETL pipeline using the Databricks Community Edition.
 The pipeline loads raw taxi data (Bronze), performs cleaning and transformations (Silver)
