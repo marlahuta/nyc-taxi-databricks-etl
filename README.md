@@ -17,3 +17,11 @@ The pipeline loads raw taxi data (Bronze), performs cleaning and transformations
 
 ## Files
 - nyt_etl.py (full ETL notebook exported from Databricks)
+
+## Tech stack / Skills demonstrated
+- Databricks (Unity Catalog, Volumes, Bronze/Silver/Gold architecture)
+- PySpark (DataFrame API, transformations, aggregations)
+- Delta Lake (optimized storage, ACID transactions)
+- ETL design (ingestion → cleaning → aggregation)
+- Git & GitHub workflow
+- SQL (validation queries у Databricks SQL)
