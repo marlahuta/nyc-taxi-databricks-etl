@@ -16,7 +16,7 @@ The pipeline loads raw taxi data (Bronze), performs cleaning and transformations
 - Delta Lake
 
 ## Files
-- nyt_etl.py (full ETL notebook exported from Databricks)
+- nyt_etl.ipynb (full ETL notebook exported from Databricks)
 
 ## Tech stack / Skills demonstrated
 - Databricks (Unity Catalog, Volumes, Bronze/Silver/Gold architecture)
